@@ -35,6 +35,16 @@
   margin-bottom: auto;
 }
 
+.burger-btn {
+  background-color: transparent;
+  border: none;
+}
+
+.burger-icon {
+  display: block;
+  color: #2f2f37;
+}
+
 .mobile-menu-contacts {
   font-style: normal;
   margin-bottom: 48px;
@@ -84,6 +94,10 @@
 
 @media screen and (min-width: 768px) {
   .mobile-menu {
+    display: none;
+  }
+
+  .burger-btn {
     display: none;
   }
 }

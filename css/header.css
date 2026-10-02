@@ -12,26 +12,12 @@
   padding: 16px 0;
 }
 
-.burger-btn {
-  background-color: transparent;
-  border: none;
-}
-
-.burger-icon {
-  display: block;
-  color: #2f2f37;
-}
-
 .header-nav,
 .contacts {
   display: none;
 }
 
 @media screen and (min-width: 768px) {
-  .burger-btn {
-    display: none;
-  }
-
   .header-logo {
     margin-right: 120px;
     padding: 24px 0;

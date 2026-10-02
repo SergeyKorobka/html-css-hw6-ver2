@@ -1,5 +1,4 @@
 .page-footer {
-  padding: 96px 0;
   background-color: #2e2f42;
 }
 
@@ -91,10 +90,6 @@
 }
 
 @media screen and (min-width: 1158px) {
-  .page-footer {
-    padding: 100px 0;
-  }
-
   .footer-container {
     gap: unset;
   }

@@ -36,8 +36,12 @@
 }
 
 .burger-btn {
-  background-color: transparent;
   border: none;
+}
+
+.burger-btn {
+  background-color: transparent;
+  margin-left: auto;
 }
 
 .burger-icon {
